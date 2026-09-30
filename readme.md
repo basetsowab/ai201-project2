@@ -69,6 +69,6 @@ I would get the application running before the first deadline and commit the cri
 
 ## How I Used AI
 
-I used ChatGPT to review the starter files, prepare questions and criteria from the supplied documents, and implement a strategy that preserves complete short posts.
+I used Claude to review the starter files, prepare questions and criteria from the supplied documents, and implement a strategy that preserves complete short posts.
 
-ChatGPT performed the preliminary document and chunk checks and helped organize this report. The full AI evaluations were not performed, so this submission contains no measured before-and-after comparison.
+Claude performed the preliminary document and chunk checks and helped organize this report. The full AI evaluations were not performed, so this submission contains no measured before-and-after comparison.
